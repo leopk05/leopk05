@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leopk05&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<figure><embed src="https://wakatime.com/share/@71cafdb3-f075-4f94-b96d-bb3ccc89fd4f/da98b189-3fdb-47c4-8c2b-db6fe44a5c66.svg"></embed></figure>
 
 
 <!--START_SECTION:waka-->
